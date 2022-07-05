@@ -9,22 +9,23 @@ body {
 
     height: 669px;
     background-image: url(image/donation5.jpg);
+    background: rgba(black, 1);
     background-repeat: no-repeat;
     background-size: cover;
 
 
 }
 
-#pera {
+#peragraph {
     font-size: 30px;
 }
 
 #color {
-    color: white;
+    color: rgb(224, 211, 18);
 }
 
 #color1 {
-    color: white;
+    color: rgb(224, 211, 18);
 }
 
 .image-head {
